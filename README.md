@@ -53,7 +53,7 @@ The *products* table in the *Bamazon* database:
 6. The database is updated to reflect the new values of both the customer's and the manager's interactions with the store.
 
 ![Image of Updated Database]
-(screenshots/updateddb.png)
+(../updateddb.png)
 
 ## Installation
 
